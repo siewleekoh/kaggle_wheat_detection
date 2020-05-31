@@ -1,3 +1,4 @@
 /wheat_venv
 /.ipynb_checkpoints
 /examples
+/model_weights.pth
